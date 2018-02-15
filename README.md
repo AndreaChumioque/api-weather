@@ -10,4 +10,4 @@ Para el desarrollo de **Weather** se ha utilizado la [API DarkSky](https://darks
 
 ## Vista de predicción semanal
 
-![](public/assets/docs/vista1.png)
+![](public/assets/docs/vista2.png)
