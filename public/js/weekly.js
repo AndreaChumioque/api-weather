@@ -58,7 +58,7 @@ const init = function() {
       children[2].innerText = `${((data[number].temperatureLow - 32) / 1.8).toFixed(1)}°`;
       children[3].innerHTML = `${((data[number].temperatureHigh - 32) / 1.8).toFixed(1)}°`;
       if (dayNum === 6) {
-        dayNum = 0;
+        dayNum = -1;
       }
     }
   };
